@@ -16,5 +16,8 @@ namespace gra
         PlayerName = playerName;
         Vocation = vocation;
     }
-
+    public void Attack
+    {
+        Console.WriteLine($"{PlayerName} atakuje {target.PlayerName} za {Vocation.Dmg} obrazen!");
+    }
 }

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Komputer\\source\\repos\\gra\\",
+  "WorkspaceRootPath": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|c:\\users\\komputer\\source\\repos\\gra\\gra\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|solutionrelative:gra\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|c:\\users\\komputer\\source\\repos\\gra\\gra\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|solutionrelative:gra\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\Stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|c:\\users\\komputer\\source\\repos\\gra\\gra\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|solutionrelative:gra\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\BattleSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\BattleSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|c:\\users\\komputer\\source\\repos\\gra\\gra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFDAE1A-20C5-4B43-AE1E-F3011197D002}|gra\\gra.csproj|solutionrelative:gra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +32,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Player.cs",
               "RelativeDocumentMoniker": "gra\\Player.cs",
-              "ToolTip": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\Player.cs",
+              "ToolTip": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Player.cs",
               "RelativeToolTip": "gra\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T21:49:01.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BattleSystem.cs",
-              "DocumentMoniker": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\BattleSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\BattleSystem.cs",
               "RelativeDocumentMoniker": "gra\\BattleSystem.cs",
-              "ToolTip": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\BattleSystem.cs",
+              "ToolTip": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\BattleSystem.cs",
               "RelativeToolTip": "gra\\BattleSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Stats.cs",
-              "DocumentMoniker": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Stats.cs",
               "RelativeDocumentMoniker": "gra\\Stats.cs",
-              "ToolTip": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\Stats.cs",
+              "ToolTip": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Stats.cs",
               "RelativeToolTip": "gra\\Stats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T21:29:46.242Z",
               "EditorCaption": ""
@@ -71,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Program.cs",
               "RelativeDocumentMoniker": "gra\\Program.cs",
-              "ToolTip": "C:\\Users\\Komputer\\source\\repos\\gra\\gra\\Program.cs",
+              "ToolTip": "C:\\Users\\Komputer\\Documents\\GitHub\\System-walk-turowych\\gra\\gra\\Program.cs",
               "RelativeToolTip": "gra\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
